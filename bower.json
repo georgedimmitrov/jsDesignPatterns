@@ -1,0 +1,20 @@
+{
+  "name": "jsptrns-tutsplus",
+  "description": "Code examples for the Put Design Patterns into Practice course from Tuts+",
+  "main": "index.js",
+  "authors": [
+    "Georgi Dimitrov"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "requirejs": "^2.3.2"
+  }
+}
